@@ -1,5 +1,6 @@
 {
   "build": {
+    "preBuild": "dotnet restore ./BackEndAdministradorCitas/BackEndAdministradorCitas.csproj",
     "command": "dotnet publish ./BackEndAdministradorCitas/BackEndAdministradorCitas.csproj -c Release -o out"
   },
   "start": {
