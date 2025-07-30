@@ -49,23 +49,20 @@ builder.Services.AddCors(options =>
 var app = builder.Build();
 
 // Middleware
-if (app.Environment.IsDevelopment())
-{
-  app.UseSwagger();
-  app.UseSwaggerUI();
-}
+app.UseSwagger();
+app.UseSwaggerUI();
 
-// OJO: Elimina la redirección HTTPS para que funcione en Railway
+// No usar HTTPS redirection en Railway
 // app.UseHttpsRedirection();
 
 app.UseCors("AllowAll");
 
-app.UseAuthentication(); // Importante: primero la autenticación
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
 
-// Aquí se configura el puerto dinámico asignado por Railway
+// Configurar puerto dinámico asignado por Railway
 var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
 
 app.Urls.Clear();
