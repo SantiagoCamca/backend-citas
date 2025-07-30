@@ -1,0 +1,9 @@
+{
+  "build": {
+    "command": "dotnet publish ./BackEndAdministradorCitas/BackEndAdministradorCitas.csproj -c Release -o out"
+  },
+  "start": {
+    "command": "dotnet BackEndAdministradorCitas.dll",
+    "cwd": "out"
+  }
+}
