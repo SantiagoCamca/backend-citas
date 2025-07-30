@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jahir.camacho\\source\\repos\\BackEndAdministradorCitas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E03C3BB-6F83-4680-9D7E-681AD0D00AE6}|BackEndAdministradorCitas\\BackEndAdministradorCitas.csproj|c:\\users\\jahir.camacho\\source\\repos\\backendadministradorcitas\\backendadministradorcitas\\controllers\\negociocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E03C3BB-6F83-4680-9D7E-681AD0D00AE6}|BackEndAdministradorCitas\\BackEndAdministradorCitas.csproj|solutionrelative:backendadministradorcitas\\controllers\\negociocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E03C3BB-6F83-4680-9D7E-681AD0D00AE6}|BackEndAdministradorCitas\\BackEndAdministradorCitas.csproj|c:\\users\\jahir.camacho\\source\\repos\\backendadministradorcitas\\backendadministradorcitas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E03C3BB-6F83-4680-9D7E-681AD0D00AE6}|BackEndAdministradorCitas\\BackEndAdministradorCitas.csproj|solutionrelative:backendadministradorcitas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E03C3BB-6F83-4680-9D7E-681AD0D00AE6}|BackEndAdministradorCitas\\BackEndAdministradorCitas.csproj|c:\\users\\jahir.camacho\\source\\repos\\backendadministradorcitas\\backendadministradorcitas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E03C3BB-6F83-4680-9D7E-681AD0D00AE6}|BackEndAdministradorCitas\\BackEndAdministradorCitas.csproj|solutionrelative:backendadministradorcitas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E03C3BB-6F83-4680-9D7E-681AD0D00AE6}|BackEndAdministradorCitas\\BackEndAdministradorCitas.csproj|c:\\users\\jahir.camacho\\source\\repos\\backendadministradorcitas\\backendadministradorcitas\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E03C3BB-6F83-4680-9D7E-681AD0D00AE6}|BackEndAdministradorCitas\\BackEndAdministradorCitas.csproj|solutionrelative:backendadministradorcitas\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E03C3BB-6F83-4680-9D7E-681AD0D00AE6}|BackEndAdministradorCitas\\BackEndAdministradorCitas.csproj|c:\\users\\jahir.camacho\\source\\repos\\backendadministradorcitas\\backendadministradorcitas\\models\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E03C3BB-6F83-4680-9D7E-681AD0D00AE6}|BackEndAdministradorCitas\\BackEndAdministradorCitas.csproj|solutionrelative:backendadministradorcitas\\models\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E03C3BB-6F83-4680-9D7E-681AD0D00AE6}|BackEndAdministradorCitas\\BackEndAdministradorCitas.csproj|c:\\users\\jahir.camacho\\source\\repos\\backendadministradorcitas\\backendadministradorcitas\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E03C3BB-6F83-4680-9D7E-681AD0D00AE6}|BackEndAdministradorCitas\\BackEndAdministradorCitas.csproj|solutionrelative:backendadministradorcitas\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E03C3BB-6F83-4680-9D7E-681AD0D00AE6}|BackEndAdministradorCitas\\BackEndAdministradorCitas.csproj|c:\\users\\jahir.camacho\\source\\repos\\backendadministradorcitas\\backendadministradorcitas\\helpers\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E03C3BB-6F83-4680-9D7E-681AD0D00AE6}|BackEndAdministradorCitas\\BackEndAdministradorCitas.csproj|solutionrelative:backendadministradorcitas\\helpers\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E03C3BB-6F83-4680-9D7E-681AD0D00AE6}|BackEndAdministradorCitas\\BackEndAdministradorCitas.csproj|c:\\users\\jahir.camacho\\source\\repos\\backendadministradorcitas\\backendadministradorcitas\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E03C3BB-6F83-4680-9D7E-681AD0D00AE6}|BackEndAdministradorCitas\\BackEndAdministradorCitas.csproj|solutionrelative:backendadministradorcitas\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E03C3BB-6F83-4680-9D7E-681AD0D00AE6}|BackEndAdministradorCitas\\BackEndAdministradorCitas.csproj|c:\\users\\jahir.camacho\\source\\repos\\backendadministradorcitas\\backendadministradorcitas\\models\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E03C3BB-6F83-4680-9D7E-681AD0D00AE6}|BackEndAdministradorCitas\\BackEndAdministradorCitas.csproj|solutionrelative:backendadministradorcitas\\models\\negocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jahir.camacho\\source\\repos\\BackEndAdministradorCitas\\BackEndAdministradorCitas\\Program.cs",
+              "RelativeDocumentMoniker": "BackEndAdministradorCitas\\Program.cs",
+              "ToolTip": "C:\\Users\\jahir.camacho\\source\\repos\\BackEndAdministradorCitas\\BackEndAdministradorCitas\\Program.cs",
+              "RelativeToolTip": "BackEndAdministradorCitas\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADgvzAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T19:34:09.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\jahir.camacho\\source\\repos\\BackEndAdministradorCitas\\BackEndAdministradorCitas\\Helpers\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "BackEndAdministradorCitas\\Helpers\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\jahir.camacho\\source\\repos\\BackEndAdministradorCitas\\BackEndAdministradorCitas\\Helpers\\JwtSettings.cs",
+              "RelativeToolTip": "BackEndAdministradorCitas\\Helpers\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T19:29:36.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\jahir.camacho\\source\\repos\\BackEndAdministradorCitas\\BackEndAdministradorCitas\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "BackEndAdministradorCitas\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\jahir.camacho\\source\\repos\\BackEndAdministradorCitas\\BackEndAdministradorCitas\\Models\\Usuario.cs",
+              "RelativeToolTip": "BackEndAdministradorCitas\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T19:21:44.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Negocio.cs",
+              "DocumentMoniker": "C:\\Users\\jahir.camacho\\source\\repos\\BackEndAdministradorCitas\\BackEndAdministradorCitas\\Models\\Negocio.cs",
+              "RelativeDocumentMoniker": "BackEndAdministradorCitas\\Models\\Negocio.cs",
+              "ToolTip": "C:\\Users\\jahir.camacho\\source\\repos\\BackEndAdministradorCitas\\BackEndAdministradorCitas\\Models\\Negocio.cs",
+              "RelativeToolTip": "BackEndAdministradorCitas\\Models\\Negocio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:53:55.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jahir.camacho\\source\\repos\\BackEndAdministradorCitas\\BackEndAdministradorCitas\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BackEndAdministradorCitas\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\jahir.camacho\\source\\repos\\BackEndAdministradorCitas\\BackEndAdministradorCitas\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BackEndAdministradorCitas\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:50:58.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jahir.camacho\\source\\repos\\BackEndAdministradorCitas\\BackEndAdministradorCitas\\appsettings.json",
+              "RelativeDocumentMoniker": "BackEndAdministradorCitas\\appsettings.json",
+              "ToolTip": "C:\\Users\\jahir.camacho\\source\\repos\\BackEndAdministradorCitas\\BackEndAdministradorCitas\\appsettings.json",
+              "RelativeToolTip": "BackEndAdministradorCitas\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T18:50:02.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NegocioController.cs",
+              "DocumentMoniker": "C:\\Users\\jahir.camacho\\source\\repos\\BackEndAdministradorCitas\\BackEndAdministradorCitas\\Controllers\\NegocioController.cs",
+              "RelativeDocumentMoniker": "BackEndAdministradorCitas\\Controllers\\NegocioController.cs",
+              "ToolTip": "C:\\Users\\jahir.camacho\\source\\repos\\BackEndAdministradorCitas\\BackEndAdministradorCitas\\Controllers\\NegocioController.cs",
+              "RelativeToolTip": "BackEndAdministradorCitas\\Controllers\\NegocioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T19:08:54.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\jahir.camacho\\source\\repos\\BackEndAdministradorCitas\\BackEndAdministradorCitas\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BackEndAdministradorCitas\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\jahir.camacho\\source\\repos\\BackEndAdministradorCitas\\BackEndAdministradorCitas\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BackEndAdministradorCitas\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T19:31:55.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\jahir.camacho\\source\\repos\\BackEndAdministradorCitas\\BackEndAdministradorCitas\\Models\\DTOs\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "BackEndAdministradorCitas\\Models\\DTOs\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\jahir.camacho\\source\\repos\\BackEndAdministradorCitas\\BackEndAdministradorCitas\\Models\\DTOs\\UsuarioDto.cs",
+              "RelativeToolTip": "BackEndAdministradorCitas\\Models\\DTOs\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T19:38:38.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

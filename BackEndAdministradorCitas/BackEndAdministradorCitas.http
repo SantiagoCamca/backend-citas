@@ -1,0 +1,6 @@
+@BackEndAdministradorCitas_HostAddress = http://localhost:5193
+
+GET {{BackEndAdministradorCitas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
