@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "BackEndAdministradorCitas\\Program.cs",
               "ToolTip": "C:\\Users\\jahir.camacho\\source\\repos\\BackEndAdministradorCitas\\BackEndAdministradorCitas\\Program.cs",
               "RelativeToolTip": "BackEndAdministradorCitas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-30T19:34:09.693Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "BackEndAdministradorCitas\\Helpers\\JwtSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T19:29:36.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T19:29:36.338Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "BackEndAdministradorCitas\\Models\\Usuario.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T19:21:44.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T19:21:44.36Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "BackEndAdministradorCitas\\Models\\Negocio.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T18:53:55.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T18:53:55.18Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "BackEndAdministradorCitas\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T18:50:58.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T18:50:58.393Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "BackEndAdministradorCitas\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-30T18:50:02.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T18:50:02.98Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "BackEndAdministradorCitas\\Controllers\\NegocioController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T19:08:54.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T19:08:54.754Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "BackEndAdministradorCitas\\Controllers\\AuthController.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAQwCEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T19:31:55.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T19:31:55.039Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "BackEndAdministradorCitas\\Models\\DTOs\\UsuarioDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T19:38:38.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T19:38:38.39Z"
             }
           ]
         }
